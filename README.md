@@ -108,7 +108,7 @@ Custom elements is a more powerful replacement for ejs' include feature.
 This is the most basic usage of this feature. For more (like passing JS values and multiple content areas), see [custom-els.md](https://github.com/sitegui/ejs-html/blob/master/custom-els.md)
 
 ## Missing features
-The following list of features are support other EJS implementations, but not by this one (at least, yet):
+The following list of features are supported by other EJS implementations, but not by this one (at least, not yet):
 
 * No support for custom delimiters
 * No caching
